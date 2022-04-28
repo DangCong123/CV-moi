@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#main{
+   
+}
+#menu{
+    width: 100%;
+    height: 150px;
+    background: blue;
+}
+.logo{
+    width: 25%;
+    height: 150px;
+    background: beige;
+    float: left;
+}
+.banner{
+    width: 75%;
+    height: 150px;
+    background: teal;
+    float:left;
+}
+#content{
+    width: 100%;
+    height: 500px;
+}
+.left{
+    width: 25%;
+    height: 500px;
+    background: yellow;
+    float: left;
+}
+.center{
+    width: 50%;
+    height: 500px;
+    background: rgb(161, 11, 113);
+    float: left;
+}
+.right{
+    width: 25%;
+    height: 500px;
+    background: rgb(45, 17, 101);
+    float: left;
+}
+
+#end{
+    width: 100%;
+    height: 150px;
+    background: red;
+
+}
